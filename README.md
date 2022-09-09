@@ -74,13 +74,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Build your app, run the command "npm run build"
 - Create a repository on GitHub, and follow the steps to deoloy your app there:
-    echo "# Innova Talk 2022" >> README.md
-    git init
-    git add .
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin <repository path>
-    git push -u origin main
+    - echo "# Innova Talk 2022" >> README.md
+    - git init
+    - git add .
+    - git commit -m "first commit"
+    - git branch -M main
+    - git remote add origin <repository path>
+    - git push -u origin main
 
 - Create an account on netlify.com
 - Click on "Add new site", import an existing prject, and choose from GitHub
