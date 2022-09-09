@@ -16,7 +16,7 @@ function App() {
     Axios.get(APIURL + "db/get").then((response)=> {
       setClientesList(response.data);
       //alert(APIURL);
-      //console.log(process.env.APIURL);
+      console.log("oi"); //process.env.APIURL);
     });
   });
 
